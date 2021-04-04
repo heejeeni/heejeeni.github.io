@@ -4,8 +4,11 @@
 최종적으로 시뮬레이션 장비로 부터 실시간 데이터를 받아 실시간으로 Six Sigma 데이터를 분석하는 것이 가능하도록 함에 있다 
 
 ### 목차
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Six Sigma 분석을 위하여 사용한 파이썬 Lib는 다음과 같음
+1. Pandas
+2. Matplotlib
+3. numpy
+4. scipy
 
 ```markdown
 Syntax highlighted code block
