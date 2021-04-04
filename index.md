@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## 파이썬을 이용한 Six Sigma 분석 (https://github.com/heejeeni/heejeeni.github.io/edit/main/index.md)
 
-You can use the [editor on GitHub](https://github.com/heejeeni/heejeeni.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+본 프로젝트의 목적은 Six Sigma 교재 내의 minitab 실습 과정들을 파이썬으로 구현하여 검증 하며,
+최종적으로 시뮬레이션 장비로 부터 실시간 데이터를 받아 실시간으로 Six Sigma 데이터를 분석하는 것이 가능하도록 함에 있다 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 목차
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -12,6 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+![image](https://user-images.githubusercontent.com/70380800/113498160-68e43380-9545-11eb-9586-9cc27cf1a684.png)
+
 ## Header 2
 ### Header 3
 
